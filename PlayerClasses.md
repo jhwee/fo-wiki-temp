@@ -4,8 +4,8 @@ This page will provide descriptions for playable classes and some tips. The valu
 **Some important things to remember**:
 * Have `special` bound to a key to utilize the class special.
   * e.g. `bind mouse2 "special"` in console.
-* If applicable, the class may have a menu for class-specific options. By default, pressing 5 (`impulse 5`) should bring it up. Alternatively, you may bind `fo_menu_special` for that.
-  * e.g. `bind z "fo_menu_special"` in console.
+* If applicable, the class may have a menu for class-specific options. By default, pressing 5 (`impulse 5`) should bring it up. Alternatively, you may bind `menu` for that.
+  * e.g. `bind z "menu"` in console.
 * You can have custom configurations for each class and have them execute when you respawn.
   * Have class configs in the `/fortress/` directory named after each class, (e.g. `/fortress/soldier.cfg`)
   * Have the following entry in your `autoexec.cfg` file: `setinfo ec on`
