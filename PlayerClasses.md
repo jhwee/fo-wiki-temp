@@ -20,7 +20,7 @@ The Scout is an excellent light attack class due to his speed and maneuverabilit
 
 | Weapons | Slot | Ammo Type | Clip Size | Max |
 | - | - | - | - | - |
-| Nailgun | Primary | Nails | N/A | 200 |
+| Nailgun | Primary | Nails | - | 200 |
 | Shotgun | Secondary | Shells | 8 | 50  |
 | Axe | Melee | - | - | - |
 
@@ -33,7 +33,7 @@ The Scout is an excellent light attack class due to his speed and maneuverabilit
 The Soldier is a medium attack class great to have on both offense and defense. Use cover to destroy a sentry gun with your rockets from a distance or toss a shock grenade at it. Rocket jump off surfaces for a bunny hopping boost.
 
 ### Class Specialties
-N/A
+None.
 
 | Weapons | Slot | Ammo Type | Clip Size | Max |
 | - | - | - | - | - |
@@ -75,7 +75,7 @@ The Medic is a key class to have on offense. You can cure status effects on affe
 
 | Weapons | Slot | Ammo Type | Clip Size | Max |
 | - | - | - | - | - |
-| Super Nailgun | Primary | Nails | N/A | 150 |
+| Super Nailgun | Primary | Nails | - | 150 |
 | Super Shotgun | Secondary | Shells | 16 | 75 |
 | Shotgun | Tertiary | Shells | 8 | 75 |
 | Bio Axe | Melee | Cells | - | 50 |
@@ -143,7 +143,7 @@ The Spy can infiltrate enemy bases while disgused to take out main defenses such
 | Gas | Secondary | 1 | Causes affected enemies to hallucinate for a short period of time. |
 
 ## Engineer
-The Engineer and their sentry gun is key to your team's success on defense. Upgrading the sentry gun to level 3 will allow it to fire rockets at enemies. You can only have one built at a time, so positioning is important. You can also build a dispenser which can be used by teammates to refil on ammo and armor. Tne dispenser also can be detonated (special) to cause fatal damage to those around it.
+The Engineer and their sentry gun is key to your team's success on defense. Upgrading the sentry gun to level 3 will allow it to fire rockets at enemies. You can only have one built at a time, so positioning is important. You can also build a dispenser which can be used by teammates to replenish ammo and armor. The dispenser also can be detonated (special) to cause fatal damage to those around it.
 
 ### Class Specialties
 **special**: Detonates the dispenser. Rockets and cells will give the most blast damage from a detonated dispenser.
